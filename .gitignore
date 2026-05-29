@@ -351,3 +351,6 @@ cython_debug/
 .pixi
 *.egg-info
 
+# Jupyter / Anaconda local metadata
+.virtual_documents/
+anaconda_projects/
